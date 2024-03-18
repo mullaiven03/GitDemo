@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-13T19:31:25 EDT" name="Suite" finished-at="2024-03-13T19:31:25 EDT" duration-ms="104">
+    <groups>
+    </groups>
+    <test started-at="2024-03-13T19:31:25 EDT" name="Test" finished-at="2024-03-13T19:31:25 EDT" duration-ms="104">
+      <class name="xxx.SeleniumTest">
+        <test-method signature="BrowserAutomation()[pri:0, instance:xxx.SeleniumTest@1da2cb77]" started-at="2024-03-13T19:31:25 EDT" name="BrowserAutomation" finished-at="2024-03-13T19:31:25 EDT" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method signature="elementsUI()[pri:0, instance:xxx.SeleniumTest@1da2cb77]" started-at="2024-03-13T19:31:25 EDT" name="elementsUI" finished-at="2024-03-13T19:31:25 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUI -->
+      </class> <!-- xxx.SeleniumTest -->
+      <class name="xxx.AppiumTest">
+        <test-method signature="IOSApps()[pri:0, instance:xxx.AppiumTest@1b2abca6]" started-at="2024-03-13T19:31:25 EDT" name="IOSApps" finished-at="2024-03-13T19:31:25 EDT" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApps -->
+        <test-method signature="NativeAppAndroid()[pri:0, instance:xxx.AppiumTest@1b2abca6]" started-at="2024-03-13T19:31:25 EDT" name="NativeAppAndroid" finished-at="2024-03-13T19:31:25 EDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAppAndroid -->
+      </class> <!-- xxx.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
